@@ -13,6 +13,7 @@ README.md
 **1. Клонируйте репозиторий**:
 
    git clone https://github.com/yourusername/cryptopulse.git
+   
    cd cryptopulse
    
 **2. Соберите проект с помощью Maven**:
@@ -26,5 +27,7 @@ README.md
 ## Зависимости
 
 **CoinGecko Java API**: для получения данных о криптовалютах.
+
 **Gson**: для обработки JSON данных.
+
 **JUnit**: для тестирования.
